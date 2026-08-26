@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=2FA4D7&width=455&lines=Welcome+to+my+github!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=35&pause=1000&color=2FA4D7&width=455&lines=About+Me)](https://git.io/typing-svg) <br>
-Hello There! I'm Maz and I'm a CompSci Student at UQU.<br>
+Hello There! I'm Maz and I'm a CompSci Student!<br>
 
 <br>
 
